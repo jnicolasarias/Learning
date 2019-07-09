@@ -1,0 +1,16 @@
+http://xurl.es/the_raven_poe.txt
+
+Descargue desde el link en la cabecera el texto "The Raven" (de Edgar Allan Poe) y haga un archivo de python llamado analysis_raven.py en donde:
+
+1) (25/100) Construya e imprima una lista en la que haya un párrafo del texto en cada entrada.(Eliminando la cabecera y el título)
+
+2) (25/100) Construya e imprima una lista que muestre cuantas veces se dice "I" en cada párrafo (No la letra "i", sino la palabra "I" refiriendose a "yo" en inglés).
+
+3) (25/100) Junte todos los caracteres del archivo para convertirlo en un string e imprímalo.
+
+4) (25/100) Cuente cuantas veces aparece la letra "i" (mayúsculas y minúsculas) y calcule e imprima el porcentaje de estas que tienen el significado descrito en el segundo punto.
+
+Todo debe estar en la misma carpeta comprimida, y debe ser subido a sicua+ como un archivo comprimido con T3, su apellido y codigo.
+Ejemplo: T3_Linares_numeronumero.tar
+
+Profesor: Juan Carlos Linares
