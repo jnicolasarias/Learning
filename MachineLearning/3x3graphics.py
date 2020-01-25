@@ -1,2 +1,0 @@
-import scipy as sc
-
